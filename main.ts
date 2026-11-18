@@ -1,5 +1,5 @@
 // btc-race two-mode bot v3: DP schedule on the dev window + v2 dip-buy on the race window.
-// Validated by grade-local (process driver): dev net PnL +$63.649505, 24 trades, WR 1.000, max DD 0.0039, L1 regrade reproduced byte for byte.
+// Validated by grade-local (process driver): dev net PnL +$63.649505, 24 trades, WR 1.000, max DD 0.0039, L1 regrade reproduced byte for byte. (retyped)
 // Long-only, one position at a time, $1000 paper. Deterministic: no clock, no network,
 // no randomness — two runs on the same bars answer identically.
 //
